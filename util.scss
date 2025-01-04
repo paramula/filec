@@ -1,16 +1,4 @@
-﻿@import './ui/font';
-@import '../icon/style';
-
-@import './ui/color';
-@import './ui/size';
-@import './ui/grid';
-@import './ui/button';
-@import './ui/form';
-@import './ui/confirm';
-// @import './ui/lib/table';
-// @import './ui/lib/date';
-// @import './ui/lib/suneditor';
-// @import './ui/lib/colorpicker';
+﻿body{background-color: red!important;}
 
 html,body{height: 100%;margin: 0;padding: 0;box-sizing: border-box;text-rendering: optimizeLegibility;font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;}
 *,*:before,*:after {margin: 0;padding: 0;box-sizing: inherit;outline: 0 none;}
